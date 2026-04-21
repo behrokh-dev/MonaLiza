@@ -10,6 +10,14 @@ This project demonstrates how different CSS filters can transform a single image
 
 ---
 
+<img width="1903" height="868" alt="Image" src="https://github.com/user-attachments/assets/efc22835-956a-421a-9f83-e0926ce41c18" />
+
+-
+
+<img width="1901" height="866" alt="Image" src="https://github.com/user-attachments/assets/31f25caa-3d86-4b3e-8786-ce2ca7d10007" />
+
+---
+
 ## ✨ Features
 - Multiple CSS filter effects applied to images  
 - Smooth hover interactions and transitions  
